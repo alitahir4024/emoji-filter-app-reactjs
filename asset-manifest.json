@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/emoji-filter-app-reactjs/static/css/main.0d4e1683.chunk.css",
+    "main.js": "/emoji-filter-app-reactjs/static/js/main.a6db7c41.chunk.js",
+    "main.js.map": "/emoji-filter-app-reactjs/static/js/main.a6db7c41.chunk.js.map",
+    "runtime-main.js": "/emoji-filter-app-reactjs/static/js/runtime-main.fe41a153.js",
+    "runtime-main.js.map": "/emoji-filter-app-reactjs/static/js/runtime-main.fe41a153.js.map",
+    "static/js/2.161d09c4.chunk.js": "/emoji-filter-app-reactjs/static/js/2.161d09c4.chunk.js",
+    "static/js/2.161d09c4.chunk.js.map": "/emoji-filter-app-reactjs/static/js/2.161d09c4.chunk.js.map",
+    "index.html": "/emoji-filter-app-reactjs/index.html",
+    "precache-manifest.3b0c6fb99a0d32a6bad7afdcb455455b.js": "/emoji-filter-app-reactjs/precache-manifest.3b0c6fb99a0d32a6bad7afdcb455455b.js",
+    "service-worker.js": "/emoji-filter-app-reactjs/service-worker.js",
+    "static/css/main.0d4e1683.chunk.css.map": "/emoji-filter-app-reactjs/static/css/main.0d4e1683.chunk.css.map",
+    "static/js/2.161d09c4.chunk.js.LICENSE.txt": "/emoji-filter-app-reactjs/static/js/2.161d09c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe41a153.js",
+    "static/js/2.161d09c4.chunk.js",
+    "static/css/main.0d4e1683.chunk.css",
+    "static/js/main.a6db7c41.chunk.js"
+  ]
+}
