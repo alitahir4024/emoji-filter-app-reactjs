@@ -11,4 +11,4 @@ Application for filtering and finding the perfect emoji for your feelings, devel
 
 ## Project preview:
 
-(https://ali-tahir4024.github.io/emoji-filter-app-reactjs/)
+[Emoji Filter Application](https://ali-tahir4024.github.io/emoji-filter-app-reactjs/)
